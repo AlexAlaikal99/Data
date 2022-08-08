@@ -1,0 +1,8 @@
+[
+    {"name": "John Doe", "occupation": "gardener", "country": "USA"},
+    {"name": "Richard Roe", "occupation": "driver", "country": "UK"},
+    {"name": "Sibel Schumacher", "occupation": "architect", "country": "Germany"},
+    {"name": "Manuella Navarro", "occupation": "teacher", "country": "Spain"},
+    {"name": "Thomas Dawn", "occupation": "teacher", "country": "New Zealand"},
+    {"name": "Morris Holmes", "occupation": "programmer", "country": "Ireland"}
+]
